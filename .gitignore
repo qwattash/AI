@@ -1,0 +1,6 @@
+#emacs tmp files
+*~
+#everything in pycache
+*/__pycache__/*
+#pyc files
+*.pyc
